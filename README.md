@@ -22,7 +22,7 @@ class Dev {
     }
 }
 
-var dev = new Dev("caio-farias21", "Full Stack", ["Javascript", "HTML", "CSS", "Python"]);
+var dev = new Dev("C4I0", "Full Stack", ["Javascript", "HTML", "CSS", "Python"]);
 console.log(`${dev.name} | ${dev.area} | ${dev.languages}`);
 ```
 
