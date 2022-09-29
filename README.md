@@ -1,6 +1,6 @@
 ### Hello! 🍃
 
-## <img height="35" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More About me
+## <img height="35" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> A little about myself
 
 <img width=30% align='right' margin-top:40px src="https://media0.giphy.com/media/aNqEFrYVnsS52/200w.gif?cid=82a1493bb7dzzzonh5de193epbple3k68rm0wote4urqngem&rid=200w.gif&ct=g">
 <!--<img width=30% align='right' margin-top:40px src="https://c.tenor.com/6y61hTjvYhcAAAAC/hollow-knight.gif">-->
