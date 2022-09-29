@@ -2,7 +2,7 @@
 
 ## <img height="35" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> A Little About Myself
 
-<img width=30% align='right' margin-top:40px src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
+<img height=100% align='right' margin-top:40px src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 <!--<img width=30% align='right' margin-top:40px src="https://c.tenor.com/6y61hTjvYhcAAAAC/hollow-knight.gif">-->
 
 ``` js
