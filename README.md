@@ -6,9 +6,13 @@
 <!--<img width=30% align='right' margin-top:40px src="https://c.tenor.com/6y61hTjvYhcAAAAC/hollow-knight.gif">-->
 ![Caio Farias's Status](https://github-readme-stats.vercel.app/api?username=caio-farias21&show_icons=true&theme=merko&hide_border=true)
 
-## **Languages and Tools:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+### **Languages:**
+
+<div align="left" betwen="30">
+<img height="30" alt="about" src="https://cdn.discordapp.com/attachments/754089471670091800/1074155874672726127/Group_4_1.png">
+<img height="30" alt="about" src="https://cdn.discordapp.com/attachments/754089471670091800/1074155874467196968/Group_5_1.png">
+<img height="30" alt="about" src="https://cdn.discordapp.com/attachments/754089471670091800/1074155874257473607/Group_6_1.png">
+<img height="30" alt="about" src="https://cdn.discordapp.com/attachments/754089471670091800/1074155874047774720/Group_7_1.png">
+<img height="30" alt="about" src="https://cdn.discordapp.com/attachments/754089471670091800/1074155873804496987/Group_11_1.png">
+</div>
