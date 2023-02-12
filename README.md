@@ -1,4 +1,4 @@
-### Hello! 🍃
+### Hey, I'm Caio 🍃
 
 ## <img height="15" alt="about" src="https://cdn.discordapp.com/attachments/754089471670091800/1074151175101882458/Desktop_-_3.png"> A Little About Myself
 
