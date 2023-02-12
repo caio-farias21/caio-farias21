@@ -10,9 +10,9 @@
 ### **Languages:**
 
 <div align="left" betwen="30">
-<img height="30" alt="about" src="https://cdn.discordapp.com/attachments/754089471670091800/1074155874672726127/Group_4_1.png">
-<img height="30" alt="about" src="https://cdn.discordapp.com/attachments/754089471670091800/1074155874467196968/Group_5_1.png">
-<img height="30" alt="about" src="https://cdn.discordapp.com/attachments/754089471670091800/1074155874257473607/Group_6_1.png">
-<img height="30" alt="about" src="https://cdn.discordapp.com/attachments/754089471670091800/1074155874047774720/Group_7_1.png">
-<img height="30" alt="about" src="https://cdn.discordapp.com/attachments/754089471670091800/1074155873804496987/Group_11_1.png">
+<img height="30" alt="python" src="https://cdn.discordapp.com/attachments/754089471670091800/1074155874672726127/Group_4_1.png">
+<img height="30" alt="javascript" src="https://cdn.discordapp.com/attachments/754089471670091800/1074155874467196968/Group_5_1.png">
+<img height="30" alt="react" src="https://cdn.discordapp.com/attachments/754089471670091800/1074155874257473607/Group_6_1.png">
+<img height="30" alt="html5" src="https://cdn.discordapp.com/attachments/754089471670091800/1074155874047774720/Group_7_1.png">
+<img height="30" alt="css" src="https://cdn.discordapp.com/attachments/754089471670091800/1074155873804496987/Group_11_1.png">
 </div>
