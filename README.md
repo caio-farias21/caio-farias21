@@ -16,6 +16,8 @@
 <img height="30" alt="css" src="https://cdn.discordapp.com/attachments/754089471670091800/1074155873804496987/Group_11_1.png">
 </div>
 
+<img height="15" alt="about" src="https://cdn.discordapp.com/attachments/1074803744165875815/1074803838751621180/Post_Malone_at_the_2019_American_Music_Awards.png"> 
+
 <!--
 #### Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-farias-359b46245/)
