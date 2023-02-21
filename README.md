@@ -4,10 +4,8 @@
 
 <!-- I'm a (Data Scientist|Software Engineering) student who really enjoys solving problems and create software solutions :robot: (mainly in **Python** :snake:) -->
 
-<div align="left">
-<img height=170em src="https://github-readme-stats.vercel.app/api?username=caio-farias21&show_icons=true&theme=merko&hide_border=true&count_private=true">
-<img height=170em src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-farias21&layout=compact&show_icons=true&theme=merko&hide_border=true">
-</div>
+![Caio Farias's GitHub stats](https://github-readme-stats.vercel.app/api?username=caio-farias21&show_icons=true&theme=merko&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-farias21&layout=compact&show_icons=true&theme=merko&hide_border=true&card_width=300px)
 
 ### **Languages:**
 
