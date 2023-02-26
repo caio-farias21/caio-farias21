@@ -5,7 +5,7 @@
 <!-- I'm a (Data Scientist|Software Engineering) student who really enjoys solving problems and create software solutions :robot: (mainly in **Python** :snake:) -->
 
 ![Caio Farias's GitHub stats](https://github-readme-stats.vercel.app/api?username=caio-farias21&show_icons=true&theme=merko&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-farias21&layout=compact&show_icons=true&theme=merko&hide_border=true&card_width=450px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-farias21&layout=compact&show_icons=true&theme=merko&hide_border=true&card_width=466px)
 
 ### **Languages:**
 
