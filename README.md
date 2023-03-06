@@ -1,8 +1,11 @@
 ### Hey, I'm Caio 🍃
 
-## <img height="15" alt="about" src="https://cdn.discordapp.com/attachments/754089471670091800/1074151175101882458/Desktop_-_3.png"> A Little About Myself
+## <img height="15" alt="about" src="https://cdn.discordapp.com/attachments/754089471670091800/1074151175101882458/Desktop_-_3.png"> A Little About Myself  
 
-<!-- I'm a (Data Scientist|Software Engineering) student who really enjoys solving problems and create software solutions :robot: (mainly in **Python** :snake:) -->
+I'm a Computer Science student who really enjoys solving problems and create software solutions :robot: (mainly in **Python** :snake:)  
+<br>
+
+
 
 ![Caio Farias's GitHub stats](https://github-readme-stats.vercel.app/api?username=caio-farias21&show_icons=true&theme=merko&hide_border=true&count_private=true&card_width=494px)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=caio-farias21&theme=merko&hide_border=true&border_radius=5)
