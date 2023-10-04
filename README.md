@@ -2,7 +2,8 @@
 
 ## <img height="15" alt="about" src="https://cdn.discordapp.com/attachments/754089471670091800/1074151175101882458/Desktop_-_3.png"> A Little About Myself  
 
-I'm a Computer Science student who really enjoys solving problems and create software solutions :robot: (mainly in **Python** :snake:)  
+I'm a Computer Science student who really enjoys solving problems and create software solutions :robot: <br>
+:round_pushpin: **```UFG - Goiânia, Goiás```**
 <br>
 
 
@@ -19,9 +20,10 @@ I'm a Computer Science student who really enjoys solving problems and create sof
 <img height="30" alt="react" src="https://cdn.discordapp.com/attachments/754089471670091800/1074155874257473607/Group_6_1.png">
 <img height="30" alt="html5" src="https://cdn.discordapp.com/attachments/754089471670091800/1074155874047774720/Group_7_1.png">
 <img height="30" alt="css" src="https://cdn.discordapp.com/attachments/754089471670091800/1074155873804496987/Group_11_1.png">
+<img height="30" alt="c++" src="https://umangsoftware.com/wp-content/uploads/2020/06/cpp-1.png">
 </div>
 
-<!--
+
 #### Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-farias-359b46245/)
--->
+
