@@ -1,6 +1,6 @@
 ### Hey, I'm Caio 🍃
 
-## <img height="15" alt="about" src="https://cdn.discordapp.com/attachments/754089471670091800/1074151175101882458/Desktop_-_3.png"> A Little About Myself  
+## <img height="15" alt="about" src="https://cdn.discordapp.com/attachments/754089471670091800/1074151175101882458/Desktop_-_3.png"> About Me  
 
 I'm a Computer Science student who really enjoys solving problems and create software solutions :robot: <br>
 :round_pushpin: **```UFG - Goiânia, Goiás```**
